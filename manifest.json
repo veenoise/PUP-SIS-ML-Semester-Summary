@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "PUP-SIS ML Semester Summary",
+  "description": "This is a web extension for PUP SIS with the theme of Mobile Legends. The extension allows the student to summarize their semester by clicking a button inside the PUP SIS /grades portal.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "js":["scripts/chart.js", "scripts/content.js"],
+      "matches": [
+        "https://sis1.pup.edu.ph/student/grades",
+        "https://sis2.pup.edu.ph/student/grades",
+        "https://sis3.pup.edu.ph/student/grades",
+        "https://sis4.pup.edu.ph/student/grades",
+        "https://sis5.pup.edu.ph/student/grades",
+        "https://sis6.pup.edu.ph/student/grades",
+        "https://sis7.pup.edu.ph/student/grades",
+        "https://sis8.pup.edu.ph/student/grades"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["/assets/*"],
+      "matches": [ "https://*/*" ]
+    }
+  ],
+  "icons": {
+    "16": "icons/mvp-16.png",
+    "32": "icons/mvp-32.png",
+    "48": "icons/mvp-48.png",
+    "128": "icons/mvp-128.png"
+  }
+}
