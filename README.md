@@ -10,35 +10,35 @@ This is a web extension for PUP SIS '/grades' endpoint. It will summarize the pa
 
 ## Demo
 
-<video src="https://www.youtube.com/watch?v=m2zO48lS8E0" width="320" height="240" controls></video>
+[![video demo](https://i9.ytimg.com/vi_webp/m2zO48lS8E0/mq2.webp?sqp=CJyjgLUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDcgWChyMA8=&rs=AOn4CLAB3y5sLC5U-VPYxElxDC6fXzFhRw)](https://www.youtube.com/watch?v=m2zO48lS8E0)
 ## Installation
 
-1.) Download the web extension as zip: 
+1. Download the web extension as zip: 
 
-1.1.) Click Code
+    1.1. Click Code
 
-![step1 Download](https://i.ibb.co/Gcy59yb/image.png)
+    ![step1 Download](https://i.ibb.co/Gcy59yb/image.png)
 
-1.2.) Click Download ZIP
+    1.2. Click Download ZIP
 
-![step2 Download](https://i.ibb.co/1QSxb0z/image.png)
+    ![step2 Download](https://i.ibb.co/1QSxb0z/image.png)
 
-2.) Extract the zip file with any tool you prefer.
+2. Extract the zip file with any tool you prefer.
 
-3.) Load the web extension in your browser:
+3. Load the web extension in your browser:
 
-3.1.) Click the extensions icon
+    3.1. Click the extensions icon
 
-![step1 Load extension](https://i.ibb.co/8Y5wKCD/image.png)
+    ![step1 Load extension](https://i.ibb.co/8Y5wKCD/image.png)
 
-3.2.) Click Manage extensions
+    3.2. Click Manage extensions
 
-![step2 Load extension](https://i.ibb.co/ftg2Gw7/image.png)
+    ![step2 Load extension](https://i.ibb.co/ftg2Gw7/image.png)
 
-3.3.) Enable Developer mode
+    3.3. Enable Developer mode
 
-![step2 Load extension](https://i.ibb.co/qk3k8tv/image.png)
+    ![step3 Load extension](https://i.ibb.co/qk3k8tv/image.png)
 
-3.4.) Click Load unpacked and select the location of the extracted folder
+    3.4. Click Load unpacked and select the location of the extracted folder
 
-![step2 Load extension](https://i.ibb.co/jDX3W1P/image.png)
+    ![step4 Load extension](https://i.ibb.co/jDX3W1P/image.png)
