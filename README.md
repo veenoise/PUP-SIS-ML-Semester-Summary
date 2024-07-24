@@ -12,6 +12,8 @@ This is a web extension for PUP SIS '/grades' endpoint. It will summarize the pa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m2zO48lS8E0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![Video Demo](https://img.youtube.com/vi/m2zO48lS8E0/1.jpg)](https://www.youtube.com/watch?v=m2zO48lS8E0)
+
 ## Installation
 
 1. Download the web extension as zip: 
