@@ -10,7 +10,7 @@ This is a web extension for PUP SIS '/grades' endpoint. It will summarize the pa
 
 ## Demo
 
-[![video demo](https://i9.ytimg.com/vi_webp/m2zO48lS8E0/mq2.webp?sqp=CJyjgLUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDcgWChyMA8=&rs=AOn4CLAB3y5sLC5U-VPYxElxDC6fXzFhRw)](https://www.youtube.com/watch?v=m2zO48lS8E0)
+[![video demo](https://postimg.cc/NKpJ6XQP)](https://www.youtube.com/watch?v=m2zO48lS8E0)
 ## Installation
 
 1. Download the web extension as zip: 
